@@ -47,3 +47,27 @@ p {color:red}
 ```python
 print('szöveg')
 ```
+
+fejléc|fejléc
+------|------
+adatok|adatok
+kövsor|kövsor
+ .... | ....
+
+ ### szövegformázás
+
+ *dőlt**
+
+ **félkövér**
+
+ _dőlt_
+
+ __félkövér__
+
+ ## likek
+
+ http://umszki.hu/
+
+[linkek szövege](http://umszki.hu/)
+![helyi kép](images.jpg)
+![távoli kép()]
