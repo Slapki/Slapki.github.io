@@ -1,4 +1,10 @@
- body{
-     background-image: ;
- }
-      
+body{
+    background: url(kepek1/háttér.jpg!sw800);
+}
+p {
+color: white;
+}
+
+h2 {
+color: whitesmoke;
+}
